@@ -15,6 +15,7 @@
 - Next.js app router with Tailwind
 - Helicone for observability
 - Plausible for website analytics
+- [Railway](https://railway.com) for hosting (including Postgres database)
 
 ## Cloning & running
 
